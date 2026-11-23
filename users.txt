@@ -1,0 +1,3 @@
+admin,admin123,ADMIN
+student1,pass123,STUDENT
+rahul,java2026,STUDENT

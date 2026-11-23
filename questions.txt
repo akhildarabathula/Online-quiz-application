@@ -1,0 +1,15 @@
+Java Programming,Which keyword is used to inherit a class in Java?,implements,extends,inherits,super,1
+Java Programming,Which of the following is NOT one of the 4 pillars of OOP?,Encapsulation,Polymorphism,Compilation,Inheritance,2
+Java Programming,What is the default value of an uninitialized int variable in a class?,0,null,1,Garbage value,0
+Java Programming,Which collection class allows dynamic resizing of an array in Java?,Array,ArrayList,FixedList,HashSet,1
+Java Programming,Which block is always executed in exception handling regardless of whether an exception occurs?,try,catch,throw,finally,3
+Java Programming,Which method of Collections class is used to randomly reorder elements in an ArrayList?,Collections.random(),Collections.shuffle(),Collections.mix(),Collections.sort(),1
+Java Programming,Which Swing class is used to fire periodic action events for a countdown timer?,java.util.Timer,javax.swing.Timer,javax.swing.Clock,java.awt.Timer,1
+Quantitative Aptitude,If the cost price of an item is Rs. 200 and it is sold at a 15% profit what is the selling price?,Rs. 215,Rs. 220,Rs. 230,Rs. 240,2
+Quantitative Aptitude,A train running at 72 km/hr crosses a pole in 15 seconds. What is the length of the train?,200 meters,300 meters,400 meters,1080 meters,1
+Quantitative Aptitude,What is the average of the first five multiples of 4?,8,10,12,16,2
+Quantitative Aptitude,If 12 workers can build a wall in 10 days how many days will 15 workers take to build the same wall?,6 days,8 days,9 days,12 days,1
+Quantitative Aptitude,Find the next number in the series: 3 6 11 18 27 ?,36,38,40,42,1
+Quantitative Aptitude,A sum of Rs. 800 amounts to Rs. 920 in 3 years at simple interest. What is the interest rate per annum?,4%,5%,6%,8%,1
+Quantitative Aptitude,If the ratio of boys to girls in a class of 60 students is 3:2 how many boys are there?,24,30,36,40,2
+Java Programming,uykgyub,h,ou,l,j,0
